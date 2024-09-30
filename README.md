@@ -6,7 +6,7 @@ SuitCase
 
 You have been commissioned to create an app that will help people plan for a holiday by allowing them to make a list of things they need to buy. This app will store a list of items they need, as well as a description, price and picture of the item. Extra features will allow optional location tracking of the shop they need to visit as well as item delegation. 
 
-Typical user interactions
+Typical user interactions:
 
 Louise has just booked a holiday for herself and her family. She wants an app that will help her prepare and ensure she has everything they need for their getaway. She searches for holiday planning apps on the play store and finds SuitCase. She downloads this app, registers an account and logs in. Inside this app she starts to list all of the things she needs for her upcoming holiday. As she has a supportive family, she is not buying all of these things herself. After adding a few items to her list, she delegates one of these items to her Husband. The app sends him an SMS text message with the name of the item, price and a description. There is also an option to tag a location of where he can buy the item from. Louise also has the ability to maintain her list with edit and delete options for each item as well as being able to add each item to a purchased list. 
 
