@@ -1,5 +1,5 @@
 # SuitCase-App
-An Android Mobile Development application I created in Fall 2023 using Android Studio and Google Material Design
+An Android Mobile Development application I created in Fall 2023 using Android Studio and Google Material Design coding with Java and Kotlin.
 
 # Scenario
 SuitCase
