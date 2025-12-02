@@ -94,9 +94,9 @@ public class viewToDoActivity extends AppCompatActivity implements View.OnClickL
         ad.show();
     }
 
-    // Method to set up the RecyclerView for ToDo items
+    // Method to set up the RecyclerView for To Do items
     private void setUpToDoRecyclerView() {
-        // Query to retrieve ToDo items for the current user, ordered by time added
+        // Query to retrieve To Do items for the current user, ordered by time added
         Query todoQuery = todoRef.whereEqualTo("email", mAuth.getCurrentUser().getEmail()).orderBy("timeAdded", Query.Direction.DESCENDING);
 
 
