@@ -1,5 +1,3 @@
-import org.gradle.internal.impldep.com.fasterxml.jackson.core.JsonPointer.compile
-
 plugins {
     id("com.android.application")
     id("com.google.gms.google-services")
